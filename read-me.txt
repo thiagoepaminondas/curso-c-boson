@@ -1,4 +1,9 @@
+esse foi meu primeiro projeto publicado no github com o intuito de aprender sobre versionamento sendo 
+disponibilizado aqui apenas conteudos basicos estraidos das aulas do curso basico de programaçao em c.
+
 curso basico em c disponivel no youtube
 https://www.youtube.com/watch?v=cZRuFwzjJ8E&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R
 
-no curso utiliza o codeblocks mais utilizarei o aton
+no curso utiliza o codeblocks mais estou utilizando o atom
+
+
