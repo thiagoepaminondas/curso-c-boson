@@ -1,0 +1,4 @@
+curso basico em c disponivel no youtube
+https://www.youtube.com/watch?v=cZRuFwzjJ8E&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R
+
+no curso utiliza o codeblocks mais utilizarei o aton
